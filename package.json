@@ -1,0 +1,12 @@
+{
+  "name": "proyectaitb_tecnorepuesto",
+  "version": "1.0.0",
+  "description": "Sistema web para la gestión de inventario, compras, ventas y atención al cliente de TecnoRepuestos S.A.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
