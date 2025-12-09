@@ -1,4 +1,12 @@
 {
+  "scripts": {
+    "test": "cd backend/test && npm test",
+    "test:unit": "cd backend/test && npm run test:unit",
+    "test:integration": "cd backend/test && npm run test:integration",
+    "test:all": "cd backend/test && npm run test:all",
+    "test:watch": "cd backend/test && npm run test:watch",
+    "test:coverage": "cd backend/test && npm run test:coverage"
+  },
   "devDependencies": {
     "@types/chai": "^5.2.3",
     "@types/jest": "^30.0.0",
